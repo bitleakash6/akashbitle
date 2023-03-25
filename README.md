@@ -19,6 +19,6 @@
 
 <p><img align="left" src="" alt="akash bitle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhivlogsingh&show_icons=true&locale=en" alt="abhivlogsingh" /></p>
+<p>&nbsp;<img align="center" src="" alt="akash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhivlogsingh&" alt="abhivlogsingh" /></p>
