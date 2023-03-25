@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/abhivlogsingh/abhivlogsingh)
 
 
-<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
+<h1 align="center">Hi 👋, I'm Akash Bitle</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/abhishe91196437" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/abhishe91196437?logo=twitter&style=for-the-badge" alt="https://twitter.com/abhishe91196437" /></a> </p>
 
-- 🌱 I’m currently learning **MERN , JAVA**
+- 🌱 I’m currently learning **Java FULLSTACK Developer**
 
 - 💬 Ask me about **DSA , WEB DEVELOPMENT**
 
-- 📫 How to reach me **abhisheksingh4115@gmail.com**
+- 📫 How to reach me **akashbitle3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
